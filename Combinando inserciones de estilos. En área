@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <meta charset="utf-8">
+     <title>Mis pemsamientos</title>
+     <style>
+       h1 {
+         color: black;
+       }
+       p {
+         color: grey;
+       }
+     </style>
+   </head>
+   <body>
+     <h1>Pensamientos</h1>
+     <p>Aquí apuntare mis pensamientos.</p>
+   </body>
+</html>
